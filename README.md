@@ -1,5 +1,5 @@
-# Exploratory Data Analysis 
-Diwali Sales Analysis
+# Sales Data Analysis and Customer Segmentation Using Python 
+Diwali Sales Analysis (Exploratory Data Analysis)
 
 ●	Performed data cleaning and manipulation. Performed Diwali Sales Analysis data using Pandas, Matplotlib, and Seaborn libraries.
 
